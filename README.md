@@ -8,8 +8,6 @@ An interactive **Power BI Dashboard** built to analyze Blinkit's sales performan
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
 ![Dashboard](dashboard_image.png)
 
 ---
