@@ -134,11 +134,6 @@ Blinkit-Sales-Dashboard
 ├── Dataset/
 │   └── BlinkIT Grocery Data.xlsx
 │
-├── Images/
-│   ├── dashboard.png
-│   ├── dashboard-overview.png
-│   └── dashboard-filters.png
-│
 ├── README.md
 └── LICENSE
 ```
